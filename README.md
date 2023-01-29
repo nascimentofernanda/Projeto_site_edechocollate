@@ -1,4 +1,4 @@
-# Projeto para criação de um site em HTML para a doceria É de Chocollate
+# Projeto para criação de um site em HTML, CSS e Javascript para a doceria É de Chocollate
 
 ### O site deverá conter:
 * Informações sobre a história da loja
